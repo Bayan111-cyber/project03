@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+.active {/* This class is used to highlight the active button */
+    color: white;
+    background-color: green;
+}
+
+button {
+    padding: 10px;
+}

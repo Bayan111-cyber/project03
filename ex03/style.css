@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+#count {
+    font-size: 40px;
+    color: black;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+}
